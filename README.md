@@ -14,6 +14,6 @@ yarn webdriver-manager update
 yarn e2e
 
 ### Update and run the below commands to generate serenity report (open report index.html from /target/site/serenity/ folder)
-yarn serenity:update. 
+yarn serenity:update  
 yarn serenity:run
 
