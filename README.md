@@ -4,7 +4,7 @@ commands to execute:
 
 git clone - https://github.com/MookambikaKanawalli/gumtree.git
 
-# to install all packages
+# To install all packages
 yarn install
 
 # Execute below command
