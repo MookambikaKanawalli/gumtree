@@ -32,7 +32,7 @@ exports.config = {
     capabilities: {
         browserName: "chrome",
         chromeOptions: {
-            args: ["no-sandbox", "--disable-web-security", "--disable-dev-shm-usage", "window-size=1200x1000"],
+            args: ["no-sandbox", "--disable-web-security", "headless", "--disable-dev-shm-usage", "window-size=1200x1000"],
         },
     },
 

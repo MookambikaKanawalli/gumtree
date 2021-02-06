@@ -1,7 +1,7 @@
 {
-  "name": "sample",
+  "name": "gumtree",
   "version": "1.0.0",
-  "description": "poc",
+  "description": "test project for gumtree",
   "private": true,
   "main": "index.js",
   "scripts": {
@@ -29,7 +29,6 @@
     "chai-as-promised": "^7.1.1",
     "dotenv": "^6.2.0",
     "mkdirp": "^0.5.1",
-    "query-string": "^6.8.3",
     "rimraf": "^2.6.2",
     "tslint": "~5.15.0",
     "tslint-config-prettier": "latest",
