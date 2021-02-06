@@ -2,14 +2,15 @@
 
 commands to execute:
 
-git clone 
+git clone - https://github.com/MookambikaKanawalli/gumtree.git
 
+# to install all packages
 yarn install
 
-# Execute these 2 commands in a separate terminal >>>>>>>>>>>>
+# Execute below command
 yarn webdriver-manager update
 
-# Run the test with below command >>>>>>>>>>>>
+# Run the test with below command
 yarn e2e
 
 # Update and run the below commands to generate serenity report (open report index.html from /target/site/serenity/ folder)
